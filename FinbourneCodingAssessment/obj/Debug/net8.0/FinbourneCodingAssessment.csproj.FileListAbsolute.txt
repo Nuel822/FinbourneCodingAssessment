@@ -1,0 +1,14 @@
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/bin/Debug/net8.0/FinbourneCodingAssessment
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/bin/Debug/net8.0/FinbourneCodingAssessment.deps.json
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/bin/Debug/net8.0/FinbourneCodingAssessment.runtimeconfig.json
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/bin/Debug/net8.0/FinbourneCodingAssessment.dll
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/bin/Debug/net8.0/FinbourneCodingAssessment.pdb
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.AssemblyInfoInputs.cache
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.AssemblyInfo.cs
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.csproj.CoreCompileInputs.cache
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.dll
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/refint/FinbourneCodingAssessment.dll
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.pdb
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/FinbourneCodingAssessment.genruntimeconfig.cache
+/Users/bobby/RiderProjects/FinbourneCodingTest/FinbourneCodingAssessment/obj/Debug/net8.0/ref/FinbourneCodingAssessment.dll
