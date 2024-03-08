@@ -1,3 +1,5 @@
+
+# Introduction
 You have been asked to create a generic in-memory cache component, which other FINBOURNE developers can use in their applications.
 
 This component should be able to store arbitrary types of objects, which are added and retrieved using a unique key (similar to a dictionary).
@@ -6,10 +8,10 @@ To avoid the risk of running out of memory, the cache will need to have a config
 The cache component is intended to be used as a singleton. As such, you should ideally make your component thread-safe for all methods, but you can skip this feature if you run out of time.
 Another useful feature would be some kind of mechanism which allows the consumer to know when items get evicted. Again, if you run out of time, you can skip this feature too.
 
-Constraints
-• Please write the solution in C# and .NET
-• You may use any .NET framework version you wish
-• You may use any development tools you wish
-• You are permitted to use external libraries (e.g. nuget packages)
+# Constraints
+* Please write the solution in C# and .NET
+* You may use any .NET framework version you wish
+* You may use any development tools you wish
+* You are permitted to use external libraries (e.g. nuget packages)
 
 Note: we appreciate there are cache implementations already available in .NET which could be used ‘off the shelf’ to solve this problem entirely. Whilst we do value pragmatism, please create your own solution, to give you the best opportunity for you to demonstrate your skills.
